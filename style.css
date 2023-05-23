@@ -1,0 +1,41 @@
+h1{
+  font-size: 50px;
+}
+button{
+  border: none;
+  text-align: center;
+}
+botao1{
+   height: 40px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px;
+    background-color: white;
+}
+botao2{
+   height: 40px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px;
+    background-color: white;
+}
+div{
+   width: 400px;
+    height: 260px;  
+    border: 2px solid black;
+    padding: 25px;
+}
+buttons{
+   justify-content: space-between;
+    display: flex;
+    height: 15px; 
+    border: none;
+    align-items: center;
+    padding-left: 10px;
+}
+html, body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
