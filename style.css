@@ -5,14 +5,14 @@ button{
   border: none;
   text-align: center;
 }
-botao1{
+.botao1{
    height: 40px;
     border-radius: 5px;
     border: 1px solid;
     padding: 10px;
     background-color: white;
 }
-botao2{
+.botao2{
    height: 40px;
     border-radius: 5px;
     border: 1px solid;
@@ -25,7 +25,7 @@ div{
     border: 2px solid black;
     padding: 25px;
 }
-buttons{
+.buttons{
    justify-content: space-between;
     display: flex;
     height: 15px; 
